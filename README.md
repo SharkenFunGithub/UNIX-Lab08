@@ -1,7 +1,7 @@
 # UNIX-Lab08
 
 
-##hello
+## hello
 
 this
 
@@ -26,7 +26,7 @@ end
 cheng yu
 
 
-##Hello
+## Hello
 
 old
 
